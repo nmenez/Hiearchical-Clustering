@@ -1,0 +1,21 @@
+{ 
+    "folders": 
+    [   
+        {
+        "path": "src",
+        },
+        {
+        "path": ".."
+        },
+        {
+        "path": "data"
+        }
+    ],
+
+    "settings":
+    {
+        "tab_size": 4,
+        "pep8_max_line_length": 120,
+    }
+}
+
